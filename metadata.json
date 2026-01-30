@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "shazwanx9@gmail.com",
+                "Name": "Shazwan"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Audio frequency visualizer powered by FFTW3.",
+        "Icon": "/vibecheck.svg",
+        "Id": "vibecheck.visualizer",
+        "Name": "VibeCheck Audio Visualizer",
+        "Version": "1.0.0",
+        "Website": "https://github.com/ShazwanX9/VibeCheck",
+        "BugReportUrl": "https://github.com/ShazwanX9/VibeCheck/issues"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
